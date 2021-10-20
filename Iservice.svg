@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="339" height="235" viewBox="0 0 339 235">
+  <g id="Iservice_" data-name="Iservice " transform="translate(-278 -632)">
+    <path id="Rectangle_76" data-name="Rectangle 76" d="M8,0H331a8,8,0,0,1,8,8V235a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V8A8,8,0,0,1,8,0Z" transform="translate(278 632)" fill="#dbf4ff"/>
+    <g id="Group_121" data-name="Group 121" transform="translate(289.715 224.195)">
+      <g id="Group_132" transform="translate(111.149 416.939)">
+        <g id="Group_119" data-name="Group 119" transform="translate(0 65.588)">
+          <path id="Path_142" data-name="Path 142" d="M1190.814,173.955V152.908h52.234a9.554,9.554,0,0,0,9.566-9.567V136.9h-64.287A16.564,16.564,0,0,0,1172,153.61v20.345Z" transform="translate(-1171.997 -136.9)" fill="#ed1846"/>
+          <path id="Path_143" data-name="Path 143" d="M1235.84,197.1H1172v.7a15.713,15.713,0,0,0,4.975,11.735c2.423,2.424,6.378,3.572,11.735,3.572h63.841v-.574a16.475,16.475,0,0,0-4.847-11.863C1245.47,198.248,1241.516,197.1,1235.84,197.1Z" transform="translate(-1171.997 -158.706)" fill="#ed1846"/>
+          <path id="Path_144" data-name="Path 144" d="M1233.773,224.3v19.771h-52.106a9.554,9.554,0,0,0-9.567,9.567v7.845h63.841a16.767,16.767,0,0,0,16.709-16.71V224.364h-18.878Z" transform="translate(-1172.034 -168.559)" fill="#ed1846"/>
+        </g>
+        <g id="Group_120" data-name="Group 120" transform="translate(28.318 57.68)">
+          <rect id="Rectangle_33" data-name="Rectangle 33" width="19.452" height="56.762" transform="translate(0.001 25.256)" fill="#414c56"/>
+          <path id="Path_145" data-name="Path 145" d="M1216.4,255.3v6.888c0,5.74,4.273,10.4,9.567,10.4h9.184a.791.791,0,0,0,.765-.829V255.3Z" transform="translate(-1216.399 -171.879)" fill="#414c56"/>
+          <path id="Path_146" data-name="Path 146" d="M1235.915,148.416V134.9c0-5.74-4.273-10.4-9.567-10.4h-9.184a.791.791,0,0,0-.765.829v23.087Z" transform="translate(-1216.399 -124.5)" fill="#414c56"/>
+        </g>
+        <rect id="Rectangle_33-2" data-name="Rectangle_33" width="31.952" height="15.881" transform="translate(24.493 103.982)" fill="#ed1846"/>
+        <g id="Group_124" transform="translate(27.6 32.306)">
+          <g id="Group_123" transform="translate(0 0)">
+            <circle id="Ellipse_30" cx="9.949" cy="9.949" r="9.949" fill="#ed1846"/>
+          </g>
+        </g>
+        <g id="Group_131" transform="translate(34.866 0)">
+          <g id="Group_127" transform="translate(0 0)">
+            <g id="Group_126">
+              <g id="Group_125">
+                <path id="Path_144-2" data-name="Path_144" d="M0,25.6v8.163A20.387,20.387,0,0,1,20.405,54.172h8.163A28.567,28.567,0,0,0-.01,25.6Z" transform="translate(0.01 -9.273)" fill="#595959"/>
+                <path id="Path_145-2" data-name="Path_145" d="M0,0V8.163A36.745,36.745,0,0,1,36.736,44.9H44.9A44.883,44.883,0,0,0,0,0Z" transform="translate(0.006 0)" fill="#595959"/>
+              </g>
+            </g>
+          </g>
+          <g id="Group_130" transform="translate(0 0)">
+            <g id="Group_129">
+              <g id="Group_128">
+                <path id="Path_146-2" data-name="Path_146" d="M0,25.6v8.163A20.387,20.387,0,0,1,20.405,54.172h8.163A28.567,28.567,0,0,0-.01,25.6Z" transform="translate(0.01 -9.273)" fill="#414c56"/>
+                <path id="Path_147" d="M0,0V8.163A36.745,36.745,0,0,1,36.736,44.9H44.9A44.883,44.883,0,0,0,0,0Z" transform="translate(0.006 0)" fill="#414c56"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <text id="iService" transform="translate(88 609.248)" fill="#ed1846" font-size="30" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">i</tspan><tspan y="0" fill="#414c56">Service</tspan></text>
+      <text id="Plus" transform="translate(181.115 627.672)" fill="#ed1846" font-size="21" font-family="Caveat" font-weight="700"><tspan x="0" y="0">Plus</tspan></text>
+    </g>
+  </g>
+</svg>
